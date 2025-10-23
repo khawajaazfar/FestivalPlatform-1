@@ -7,4 +7,4 @@
 - [x] Add statistics: Track total wins, losses, ties across rounds.
 - [x] Add play again feature: After the series, ask if user wants to play another series.
 - [x] Modularize code: Use functions for game logic, input handling, etc.
-- [ ] Test the game: Run and verify functionality.
+- [x] Test the game: Run and verify functionality.
